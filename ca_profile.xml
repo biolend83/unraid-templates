@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>
+Templates for **TubeHaus**, a self-hosted YouTube client for the whole household: no ads, no tracking, no Google account, and one shared library (subscriptions, history, playlists, resume points) for every phone, computer and TV in the house. Source: https://github.com/biolend83/tubehaus (AGPL-3.0). Independent open-source software, not affiliated with YouTube or Google.
+
+TubeHaus on Unraid is two containers that run together: **TubeHaus** (the server) and **TubeHaus-Web** (the web app you open in the browser). Install both.
+
+Support: https://github.com/biolend83/tubehaus/issues
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/biolend83/tubehaus/main/web/y/icon-512.png</Icon>
+  <WebPage>https://github.com/biolend83/tubehaus</WebPage>
+  <!-- After creating the Unraid forum support thread, add it here and as <Support> in both templates: -->
+  <!-- <Forum>https://forums.unraid.net/topic/XXXXX-support-tubehaus/</Forum> -->
+</CommunityApplications>
